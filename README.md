@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm SAURABH KUMAR</h1>
-<h3 align="center">Group QA manager</h3>
-
+<h3 align="center">Group QA Manager(QA Lead)</h3>
+<h2 align="left">About Me</h2>
+<h4 align="left">I have 14+ years experienced in the IT industry, dedicated to QA with a focus on Quality Assurance (QA) demonstrates a deep 
+understanding of software testing methodologies and practices.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmsri&label=Profile%20views&color=0e75b6&style=flat" alt="skmsri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmsri" alt="skmsri" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium, cucumberBDD, API**
+- 🔭 I’m currently working on **Selenium, cucumberBDD, API Testings**
 
 - 👯 I’m looking to collaborate on **Selenium, cucumberBDD, API**
 
-- 🤝 I’m looking for help with **Selenium, cucumberBDD, API**
+- 👨‍💻 All of my projects are available on **https://github.com/SKMSRI/**
 
 - 📫 How to reach me **er.saurabhkumar22@gmail.com**
 
