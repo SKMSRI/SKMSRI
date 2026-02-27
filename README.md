@@ -6,6 +6,8 @@ understanding of software testing methodologies and practices.</h4>
                                                                 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmsri&label=Profile%20views&color=0e75b6&style=flat" alt="skmsri" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmsri" alt="skmsri" /></a> </p>
 
 - 🔭 I’m currently working on **Selenium, Playwright, cucumberBDD, API Testings**
