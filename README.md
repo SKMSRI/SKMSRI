@@ -17,7 +17,7 @@ understanding of software testing methodologies and practices.</h4>
 - 📫 How to reach me **er.saurabhkumar22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/saurabh-kumar-srivastava-00a49b4a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
