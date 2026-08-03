@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **er.saurabhkumar22@gmail.com**
 
-
 <h3 align="left">Featured Projects</h3>
 Add Dummy Projects links
 <h3 align="left">Connect with me:</h3>
@@ -46,3 +45,4 @@ Add Dummy Projects links
 -Certified **Scrum Foundation Professional certificate** in Dec2020.  
 -Certified** ITIL foundation in 2014.**  
 - **ISTQB foundation** course from Udemy in 2015.  
+
