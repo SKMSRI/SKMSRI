@@ -5,11 +5,12 @@
                                                                 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmsri&label=Profile%20views&color=0e75b6&style=flat" alt="skmsri" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmsri" alt="skmsri" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium, Playwright, cucumberBDD, API Testings**
+- 🔭 I’m currently working on **Playwright, cucumberBDD,  Selenium, API Testings**
 
-- 👯 I’m looking to collaborate on **Selenium, Playwright, cucumberBDD, API**
+- 👯 I’m looking to collaborate on **Playwright, cucumberBDD, Selenium, API**
 
 - 👨‍💻 All of my projects are available on **https://github.com/SKMSRI/**
 
