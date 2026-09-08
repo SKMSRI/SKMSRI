@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAURABH KUMAR</h1>
 <h3 align="center">Senior Group Manager(QA Manager)</h3>
+<h3 align="center">|QA Management|Test Strategy |Automation Testing |Selenium|Playwright|API Testing|Azure DevOps|JIRA|Agile Scrum|Quality Engineering|Stakeholder Management|Team Leadership|CI/CD| Defect Management|AI-Assisted Testing|</h3>
 <h2 align="left">About Me</h2>
 <h4 align="left">I have 16+ years of experience in the IT industry, dedicated to QA with a focus on Quality Assurance, demonstrating a deep understanding of software testing methodologies and practices.</h4>
                                                                 
