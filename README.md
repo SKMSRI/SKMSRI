@@ -22,7 +22,7 @@ Add Dummy Projects links
 
 ## 🛠️ QA Technical Expertise
 
-- ✅ **Testing Types:** UI Testing, API Testing, End-to-End Testing, Regression Testing, Smoke Testing
+- ✅ **Testing Types:** Funcational Testing, API Testing, End-to-End Testing, Regression Testing, Smoke Testing, UI Testing
 - 💻 **Programming Languages:** Java, JavaScript, TypeScript
 - 🚀 **Test Automation:** Playwright (TypeScript/JavaScript), Selenium WebDriver
 - 🧩 **Frameworks & Libraries:** Cucumber BDD, TestNG
