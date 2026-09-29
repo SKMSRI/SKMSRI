@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmsri&label=Profile%20views&color=0e75b6&style=flat" alt="SKMSRI" /> </p>
+                                                                
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SKMSRI" alt="SKMSRI" /></a> </p>
 <h1 align="center">Hi 👋, I'm SAURABH KUMAR</h1>
 <h3 align="center">Senior Group Manager(QA Manager)</h3>
 <h3 align="center">|QA Management|Test Strategy |Automation Testing |Selenium|Playwright with TS|API Testing|Azure DevOps|JIRA|Agile Scrum|Quality Engineering|Stakeholder Management|Team Leadership|CI/CD| Defect Management|AI-Assisted Testing|</h3>
@@ -14,12 +16,14 @@
 - 🏆 Certified **Professional Scrum Master I (PSM I)** and **Scrum Foundation Professional**.<br>
 - 👨‍💻 All of my projects are available on **https://github.com/SKMSRI/**
 - 📫 How to reach me **er.saurabhkumar22@gmail.com**
-                                                                
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SKMSRI" alt="SKMSRI" /></a> </p>
 
-<h3 align="left">Featured Projects</h3>
-Add Dummy Projects links
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Playwright-TS BDD DummyProject**](https://github.com/your-username/playwright-bdd-framework) | End-to-end test automation framework with BDD scenarios, reusable page objects and HTML reporting. | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/-Cucumber_BDD-23D96C?logo=cucumber&logoColor=white) |
+| [**Selenium -Java BDD DummyProject**](https://github.com/your-username/selenium-ui-automation) | Cross-browser web UI automation suite with data-driven tests and parallel execution. | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Cucumber BDD](https://img.shields.io/badge/-Cucumber_BDD-23D96C?logo=cucumber&logoColor=white) |
+| [**GitHub Actions Automation Pipeline**](https://github.com/your-username/cicd-test-pipeline) | GitHub Actions pipeline that runs automated regression tests on every push and pull request. | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 ## 🛠️ QA Technical Expertise
 
 - ✅ **Testing Types:** Funcational Testing, API Testing, End-to-End Testing, Regression Testing, Smoke Testing, UI Testing
