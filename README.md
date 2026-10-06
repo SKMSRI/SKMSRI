@@ -13,7 +13,7 @@
 - 🧩 Experienced in **Cucumber BDD, TestNG, Agile Scrum, and CI/CD practices**.<br>
 - 🗄️ Hands-on experience with **Microsoft SQL Server** and **PostgreSQL** for backend validation and data-driven testing.<br>
 - 📈 Passionate about enhancing software quality through automation, continuous improvement, and modern Quality Engineering practices.<br>
-- 🏆 Certified **Professional Scrum Master I (PSM I)** and **Scrum Foundation Professional**.<br>
+- 🏆 Certified **Professional Scrum Master(PSM I)** from Scrum.org and **Scrum Foundation Professional**.<br>
 - 👨‍💻 All of my projects are available on **https://github.com/SKMSRI/**
 - 📫 How to reach me **er.saurabhkumar22@gmail.com**
 
